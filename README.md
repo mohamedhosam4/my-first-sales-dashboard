@@ -6,7 +6,7 @@ This is a **beginner-level data analysis project** created using **Microsoft Exc
 ---
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Preview]([https://github.com/mohamedhosam4/my-first-sales-dashboard/blob/main/Sales_Data_Analysis.png?raw=true](https://github.com/mohamedhosam4/my-first-sales-dashboard/blob/main/sales_dashboard.png))
+![Sales Dashboard Preview](https://github.com/mohamedhosam4/my-first-sales-dashboard/blob/main/sales_dashboard.png?raw=true)
 
 ---
 
