@@ -4,12 +4,9 @@
 This is a **beginner-level data analysis project** created using **Microsoft Excel**. The goal of this project is to explore, analyze, and visualize sales data using **pivot tables**, **charts**, and **interactive slicers**. It is my **first step** into the world of data analysis and dashboard creation, and more advanced projects will follow!
 
 ---
-
 ## 📸 Dashboard Preview
 
-> *(Insert an image of your dashboard here — recommended size: 900x500)*  
-> Example:
-> ![Sales Dashboard Preview](images/sales_dashboard_preview.png)
+![Sales Dashboard Preview](https://github.com/mohamedhosam4/my-first-sales-dashboard/blob/main/Sales_Data_Analysis.png?raw=true)
 
 ---
 
